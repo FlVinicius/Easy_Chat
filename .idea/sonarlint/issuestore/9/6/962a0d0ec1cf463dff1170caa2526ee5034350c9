@@ -1,0 +1,19 @@
+
+C
+java:S1604W"(Make this anonymous inner class a lambda(ÈÄÿéşÿÿÿÿ
+C
+java:S1604i"(Make this anonymous inner class a lambda(è°Ÿúÿÿÿÿ
+œ
+java:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( æŸõşÿÿÿÿ
+B
+java:S1602R",Remove useless curly braces around statement(Ó–‰ı
+J
+java:S1611V"/Remove the parentheses around the "v" parameter(»âÏ¾üÿÿÿÿ
+G
+java:S1602V",Remove useless curly braces around statement(»âÏ¾üÿÿÿÿ
+J
+java:S1611g"/Remove the parentheses around the "v" parameter(Ãï ”üÿÿÿÿ
+G
+java:S1602g",Remove useless curly braces around statement(Ãï ”üÿÿÿÿ
+C
+java:S1602",Remove useless curly braces around statement(¡—êã

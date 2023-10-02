@@ -1,0 +1,13 @@
+
+f	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…çæX
+?
+java:S1604„"(Make this anonymous inner class a lambda(äƒ
+J
+java:S1611U"/Remove the parentheses around the "v" parameter(´† Ûüÿÿÿÿ
+G
+java:S1602U",Remove useless curly braces around statement(´† Ûüÿÿÿÿ
+?	java:S108·")Either remove or fill this block of code.(”ı¾
+˜
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÙÌú
+˜
+java:S1186Ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çšğ
